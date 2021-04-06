@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on BigQuery, Snowplow Analytics, Feathersjs, Postgres
+- 🔭 I’m currently working on BigQuery, Python, Snowplow Analytics, Feathersjs, Postgres
 - 🌱 I’m currently learning Data Analysis, Feathersjs, Python, GCP
 <!--
 - 👯 I’m looking to collaborate on 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 --->
-- 💬 Ask me about PHP, Node.js, Serverless Framework, AWS Lambda, AWS DynamoDB, GraphQL, SQL, Snowflake, Snowplow Analytics
+- 💬 Ask me about Node.js, Serverless Framework, AWS Lambda, AWS DynamoDB, GraphQL, SQL, Snowflake, Snowplow Analytics, GCP, BigQuery, Datastudio, PHP
 - 📫 How to reach me: roshanlabh@gmail.com
 - 😄 Pronouns: he/him
 
